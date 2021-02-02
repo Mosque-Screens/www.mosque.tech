@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src="/icon-only-logo.png" alt="Mosque Tech Logo"/>
         <h1 className={styles.title}>
           Welcome to <a href="https://www.mosque.tech">Mosque.Tech!</a>
         </h1>
